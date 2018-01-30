@@ -1,0 +1,19 @@
+.featured-img-round, .featured-img-round-small {border-radius: 50%; -webkit-border-radius: 50%; -moz-border-radius: 50%; -ms-border-radius: 50%; border:none !important; box-shadow:0 0 0 10px #ddd ; margin: 10px 30px !important;}
+.featured-img-round-small {box-shadow:0 0 0 5px #ddd;}
+.sub-footer .featured-img-round-small {margin-left: 5px !important;}
+.featured-img {padding: 0 !important; box-shadow:0 0 0 10px #fff !important; margin: 10px;}
+.bride-groom-photo {text-align: center;}
+.bride-groom-photo .featured-img-round {margin: 0 !important;}
+img.align-center {margin-left: auto !important; margin-right: auto !important;}
+.bride-groom-profile img.featured-img-round {margin-bottom: 30px !important;}
+.sub-footer .featured-img-round {display: none;}
+
+.event_slider {position: relative;}
+.event_slider ul li {display: inline-block; float: left; margin: 0 8px;}
+.event_slider .flex-direction-nav .flex-prev,
+.event_slider .flex-direction-nav .flex-next {top:120px; left: -60px;}
+.event_slider .flex-direction-nav .flex-next {left: auto; right: -60px;}
+.event_slider .flex-direction-nav .flex-disabled {display: none;}
+
+.comment-form input[type="submit"] { padding: 10px 35px; border-radius: 20px; font-size: 14px; text-transform: uppercase; border-width:0px; box-shadow: 0 2px 0 1px #E3E3E3; background: #3c3c3c;  color: #fff; text-shadow: none;}
+.comment-form input[type="submit"]:hover {background-color: #000;}
