@@ -2,7 +2,7 @@
   <service>
     <engineName>WordPress</engineName>
     <engineLink>http://wordpress.org/</engineLink>
-    <homePageLink>http://themes.layero.com/weddingwp</homePageLink>
+    <homePageLink>https://shyamasmita.github.io/Invitation/</homePageLink>
     <apis>
       <api name="WordPress" blogID="1" preferred="true" apiLink="xmlrpc.php" />
       <api name="Movable Type" blogID="1" preferred="false" apiLink="xmlrpc.php" />
