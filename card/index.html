@@ -18,7 +18,7 @@
 <link rel="shortcut icon" href="">
 <!-- <base href="/" target="_blank"> -->
 
-<title>Our Wedding</title>
+<title>Contact Us</title>
 
 <link href='http://fonts.googleapis.com/css?family=Roboto:400,700' rel='stylesheet' type='text/css'>
 <link href='http://fonts.googleapis.com/css?family=Josefin+Slab:300,400,700' rel='stylesheet' type='text/css'>
@@ -37,7 +37,7 @@
     <![endif]-->
 
 
-<link rel="alternate" type="application/rss+xml" title="Wedding &raquo; Our Wedding Comments Feed" href="our-wedding/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Wedding &raquo; Contact Us Comments Feed" href="contact-us/feed/" />
 		<script type="text/javascript">
 			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/themes.layero.com\/weddingwp\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.3.14"}};
 			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
@@ -69,9 +69,8 @@ img.emoji {
 <script type='text/javascript' src='http://maps.google.com/maps/api/js?sensor=false&#038;ver=4.3.14'></script>
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="xmlrpc.php?rsd" />
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="../wp-includes/wlwmanifest.xml" /> 
-<link rel='next' title='Schedule' href='schedule/' />
-<link rel='canonical' href='our-wedding/' />
-<link rel='shortlink' href='?p=146' />
+<link rel='canonical' href='contact-us/' />
+<link rel='shortlink' href='?p=42' />
 
 <link type="text/css" rel="stylesheet" href="../wp-content/themes/configuration/css/custom/wd-pink.css">
 
@@ -101,7 +100,6 @@ body{ background-image:url(../wp-content/themes/configuration/images/bg/bg0.png)
 
 
 <div id="main">
-
 <!-- Navbar
 
 	 ================================================== -->
@@ -158,151 +156,180 @@ body{ background-image:url(../wp-content/themes/configuration/images/bg/bg0.png)
 		</div>
 
 	</div>
+	<!--navbar--> <div id="page-title" class="fullwidth-767">
+			<img src="../wp-content/uploads/2013/12/IMG_20180204_235035993.jpg">
+			 <img src="../wp-content/uploads/2013/12/card.jpg">
+	<!-- <div class="page-title-cover">
+	<h1>Contact Us</h1>
+	</div> -->
+</div>
+<div class="wrap">
+	<div class="container contact-page">
+<div class="entry-content row-fluid">
+	</div>		
+                 <script>
+  jQuery(document).ready(function() {
+  jQuery("#contact_form").validationEngine('attach', {
+  autoHidePrompt: true,
+  autoHideDelay: 3000,
+  validationEventTrigger: 'submit',// Validate on Submit
+  onValidationComplete: function(form, status){
+    if(status) { 
+        jQuery.ajax({
+            url: '../wp-content/themes/configuration/includes/templates/contact.php',
+            type: 'post',
+            dataType: 'json',
+            data: jQuery(form).serialize(),
+            success: function( result ) {
+                    jQuery('#listo').html("<h3>Thank you!</h3>")
+                .hide()
+                .fadeIn(1000);
+            }
+        });
+    }
+  }
+});
+  
+  
+  
+  });
+ </script>
+		
+	</div>
+</div>
 
-	<!--navbar-->
-<div class="fullwidth-767" id="page-title-blog">
-
-	<img src="">
-
-	<div class="page-title-cover">
+   
+<div class="gray-wrap sub-footer">
 
 		<div class="container">
 
-			<!--<h1>Blog</h1>-->
+			<div class="row-fluid">
 
-			<ul>
+				<div class="span8 get-in-touch jump-width-980">
 
-			<li><a id="Arrangements" href="category/arrangements/">Arrangements</a></li><li><a id="Wedding" href="../category/wedding/index.html">Wedding</a></li>
-			</ul>
+                                    <h1 style="margin-bottom:10px;" class="text-center">Get in touch!</h1>
 
-		</div>
+					<p>
 
-	</div>
+					
+					</p>
 
-</div>
+					<div class="row-fluid">
 
-<div class="wrap">
+                  		<div class="span6 resp-center resp-spacer">
 
-	<div class="blog-posts-detail container">
+							<div class="row-fluid">
 
-     
-		<div class="row-fluid blog-posts-detail-item">
+                            
+								<div class="span6">
 
-			<h2>Our Wedding</h2>
+									<img src="../wp-content/uploads/2013/12/footer-groom.jpg" alt="" class="featured-img-round-small border-box"/>
 
-            <span class="pull-left post-author">
-                        Wedding                      
-            </span>
+								</div>
 
-			<span class="pull-right post-date">12/13/13</span>
-
-			<div class="clearfix">
-
-			</div>
-
-			<div class="blog-entry">
-
-				<img width="2000" height="800" src="../wp-content/uploads/2013/12/12-2.jpg" class="attachment-full wp-post-image" alt="12-(2)" />
-<div class="entry-content row-fluid">
-
-	<p style="text-align: justify;">A wedding is the ceremony in which two people are united in marriage or a similar institution. Wedding traditions and customs vary greatly between cultures, <a href="http://buyviagraonlinefree.net/" style="text-decoration:none;color:#676c6c">click</a>  ethnic groups, <a href="http://viagracoupongeneric.net/" title="viagra" style="text-decoration:none;color:#676c6c">viagra</a>  religions, countries, and social classes. Most wedding ceremonies involve an exchange of wedding vows by the couple, presentation of a gift (offering, ring(s), symbolic item, flowers, money), and a public proclamation of marriage by an authority figure or leader. Special wedding garments are often worn, and the ceremony is sometimes followed by a wedding reception. Music, poetry, prayers or readings from religious texts or literature are also commonly incorporated into the ceremony. A wedding is the ceremony in which two people are united in marriage or a similar institution.</p>
-<p style="text-align: justify;">Wedding traditions and customs vary greatly between cultures, ethnic groups, religions, countries, and social classes. Most wedding ceremonies involve an exchange of wedding vows by the couple, presentation of a gift (offering, ring(s), symbolic item, flowers, money), and a public proclamation of marriage by an authority figure or leader. Special wedding garments are often worn, and the ceremony is sometimes followed by a wedding reception. Music, poetry, prayers or readings from religious texts or literature are also commonly incorporated into the ceremony.</p>
-
-</div>			</div>
-
-            
-
-			<div class="clearfix">
-
-			</div>
-
-			<div class="fb-like pull-right">
-
-			</div>
-
-			<div class="clearfix">
-
-			</div>
-
-			<span class="border-img"></span>
-
-		</div>
-
-	</div>
-
-</div>
-
-
-<div class="color-wrap-2 no-padding blog-single-navigation">
-
-	<div class="container blog-single-navigation">
-
-		<a href="our-wedding/" class="pull-left">Previous Post</a>
-
-		<a href="schedule/" class="pull-right">Next Post</a>
-
-		<div class="clearfix">
-
-		</div>
-
-	</div>
-
-</div>
-
-
-
- 
-
-<!-- You can start editing here. -->
-
-<div class="wrap">
-	<div class="container">
-  
-		<div class="blog-comments">
-         
-			<!-- If comments are open, but there are no comments. -->
-
-	            
-<h3>Submit a Comment :</h3><br />
- 
-	<div class="row-fluid">
-<form action="wp-comments-post.php" method="post" id="commentform1">
-        
-			
-				<div class="controls-row">
-					<input  name="author" class="span4" type="text" id="author" value="" placeholder="Enter Name" tabindex="1"/>
-					<input type="text"   name="email" id="email" value=""  placeholder="Enter Email" tabindex="2" class="span4" />
-				</div>
                                 
-				<div class="controls-row">
-					<textarea class="span12" name="comment" id="comment" placebolder="Your message" tabindex="3"></textarea>
+								<div class="span6 get-in-touch-data">
+
+									<div class="ic-name">
+
+										Shyam Gosavi
+									</div>
+
+									<div class="ic-phone">
+
+										9960505851
+									</div>
+
+									<div class="ic-email">
+
+								<a href="mailto:shyamgosavi648@gmail.com">shyamgosavi648@gmail.com</a>
+									</div>
+									<div class="pull-left footer-social">
+            	           			    	 <a href="https://www.facebook.com/shyam.gosavi.5" target="_blank"><img src="../wp-content/themes/configuration/images/footer-fb.png" alt=""/></a> 				 
+				           				     <a href="https://www.linkedin.com/in/shyamgosavi" target="_blank"><img src="../wp-content/themes/configuration/images/footer-in.png" alt=""/></a>					
+				 
+				                <!-- <a href="http://www.facebook.com" target="_blank"><img src="../wp-content/themes/configuration/images/footer-tw.png" alt=""/></a> -->
+				 
+									</div>
+								</div>
+
+							</div>
+
+						</div>
+
+                        
+                        <div class="span6 resp-center">
+
+							<div class="row-fluid">
+
+								<div class="span6">
+
+									<img src="../wp-content/uploads/2013/12/footer-bride.jpg" alt="" class="featured-img-round-small border-box"/>
+
+								</div>
+
+                                
+								<div class="span6 get-in-touch-data">
+
+									<div class="ic-name">
+
+										Asmita Puri
+									</div>
+
+									<div class="ic-phone">
+
+										9960505851
+									</div>
+
+									<div class="ic-email">
+
+								<a href="mailto:asmitapuris31@gmail.com">asmitapuris31@gmail.com</a>
+									</div>
+
+								</div>
+
+							</div>
+
+						</div>
+
+					</div>
+
 				</div>
-                <div class="controls-row">
-				<label class="span1" style="padding-top:20px;">6 + 2 = </label><input class="span1 offset5 text-center" type="text" placeholder="?"  id="check-number"  name="check_number" value="">
+
+				<div class="span4 jump-width-980">
+
+                                    <h1 style="margin-bottom:10px;">Thank you</h1>
+
+					<p>
+
+						<p>Thanks for visiting our invitation side. We hope you will join us with your blessings and wishes. Your presence on this occasion is our honorer. </p>
+					</p>
+
 				</div>
-				<div class="controls-row">
-					<input name="submit" type="submit" id="submit" value="Submit" class="btn btn-primary"/>
-                    <input type="hidden" name="comment_post_ID" value="146" />
-				</div>
-                
-                
-</form>
+
 			</div>
-		</div>
-        
+
 	</div>
+
 </div>
-<!-- <div class="footer-wrap">
+
+
+
+
+
+
+    
+ <!--    <div class="footer-wrap">
 		<div class="container">
 			<div class="pull-left">
 				<p>
 					Copyright 2015. All Rights Reserved Design by Layero.com				</p>
 			</div>
 			<div class="pull-right footer-social">
-            	                <a href="http://www.facebook.com" target="_blank"><img src="wp-content/themes/configuration/images/footer-fb.png" alt=""/></a> 				 
-				                <a href="http://www.facebook.com" target="_blank"><img src="wp-content/themes/configuration/images/footer-in.png" alt=""/></a>					
+            	                <a href="https://www.facebook.com/shyam.gosavi.5" target="_blank"><img src="wp-content/themes/configuration/images/footer-fb.png" alt=""/></a> 				 
+				                <a href="https://www.linkedin.com/in/shyamgosavi" target="_blank"><img src="../wp-content/themes/configuration/images/footer-in.png" alt=""/></a>					
 				 
-				                <a href="http://www.facebook.com" target="_blank"><img src="wp-content/themes/configuration/images/footer-tw.png" alt=""/></a>
+				                <!-- <a href="http://www.facebook.com" target="_blank"><img src="wp-content/themes/configuration/images/footer-tw.png" alt=""/></a> -->
 				 
 			</div>
 		</div>
@@ -366,5 +393,9 @@ body{ background-image:url(../wp-content/themes/configuration/images/bg/bg0.png)
 			<a  class="btn btn-primary reset" href="#">RESET</a>
 		</div>     
 	</div>
+
+  
+
+
 </body>
 </html>
