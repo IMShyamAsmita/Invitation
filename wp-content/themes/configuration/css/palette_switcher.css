@@ -9,7 +9,7 @@
 	background:#fff;
 	border:solid 1px #dedede;
 	padding:10px;
-	display: none;
+	/*display: none;*/
 }
 #palette .color-click {
 	width:16px;
