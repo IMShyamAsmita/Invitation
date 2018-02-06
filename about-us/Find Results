@@ -1,0 +1,314 @@
+Searching 48 files for "layero"
+
+/Users/shyambharatpurigosavi/Documents/project/marriage_site/Invitation/index.html:
+   39  
+   40  		<script type="text/javascript">
+   41: 			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/themes.layero.com\/weddingwp\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.3.14"}};
+   42  			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+   43  		</script>
+
+/Users/shyambharatpurigosavi/Documents/project/marriage_site/Invitation/about-us/index.html:
+   38  <link rel="alternate" type="application/rss+xml" title="Wedding &raquo; About Us Comments Feed" href="about-us/feed/" />
+   39  		<script type="text/javascript">
+   40: 			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/themes.layero.com\/weddingwp\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.3.14"}};
+   41  			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+   42  		</script>
+   ..
+  498  Database Caching 22/31 queries in 0.004 seconds using disk
+  499  
+  500:  Served from: themes.layero.com @ 2018-01-13 17:10:58 by W3 Total Cache -->
+
+/Users/shyambharatpurigosavi/Documents/project/marriage_site/Invitation/card/index.html:
+   40  <link rel="alternate" type="application/rss+xml" title="Wedding &raquo; Contact Us Comments Feed" href="contact-us/feed/" />
+   41  		<script type="text/javascript">
+   42: 			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/themes.layero.com\/weddingwp\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.3.14"}};
+   43  			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+   44  		</script>
+
+/Users/shyambharatpurigosavi/Documents/project/marriage_site/Invitation/contact-us/index.html:
+   40  <link rel="alternate" type="application/rss+xml" title="Wedding &raquo; Contact Us Comments Feed" href="contact-us/feed/" />
+   41  		<script type="text/javascript">
+   42: 			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/themes.layero.com\/weddingwp\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.3.14"}};
+   43  			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+   44  		</script>
+
+/Users/shyambharatpurigosavi/Documents/project/marriage_site/Invitation/Event/ceremony/index.html:
+   39  
+   40  		<script type="text/javascript">
+   41: 			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/themes.layero.com\/weddingwp\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.3.14"}};
+   42  			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+   43  		</script>
+
+/Users/shyambharatpurigosavi/Documents/project/marriage_site/Invitation/Event/engagement/index.html:
+   39  
+   40  		<script type="text/javascript">
+   41: 			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/themes.layero.com\/weddingwp\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.3.14"}};
+   42  			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+   43  		</script>
+
+/Users/shyambharatpurigosavi/Documents/project/marriage_site/Invitation/Event/reception/index.html:
+   39  
+   40  		<script type="text/javascript">
+   41: 			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/themes.layero.com\/weddingwp\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.3.14"}};
+   42  			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+   43  		</script>
+
+/Users/shyambharatpurigosavi/Documents/project/marriage_site/Invitation/gifts/index.html:
+   40  <link rel="alternate" type="application/rss+xml" title="Wedding &raquo; Wedding Gifts Comments Feed" href="gifts/feed/" />
+   41  		<script type="text/javascript">
+   42: 			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/themes.layero.com\/weddingwp\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.3.14"}};
+   43  			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+   44  		</script>
+
+/Users/shyambharatpurigosavi/Documents/project/marriage_site/Invitation/guest-book/index.html:
+   40  <link rel="alternate" type="application/rss+xml" title="Wedding &raquo; Guest Book Comments Feed" href="guest-book/feed/" />
+   41  		<script type="text/javascript">
+   42: 			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/themes.layero.com\/weddingwp\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.3.14"}};
+   43  			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+   44  		</script>
+
+/Users/shyambharatpurigosavi/Documents/project/marriage_site/Invitation/our-wedding/index.html:
+   40  <link rel="alternate" type="application/rss+xml" title="Wedding &raquo; Our Wedding Comments Feed" href="our-wedding/feed/" />
+   41  		<script type="text/javascript">
+   42: 			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/themes.layero.com\/weddingwp\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.3.14"}};
+   43  			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+   44  		</script>
+
+/Users/shyambharatpurigosavi/Documents/project/marriage_site/Invitation/wp-content/themes/configuration/includes/index.html:
+    6  <head>
+    7  	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    8: 	<title>Layero | Theme: Graha RealEstate-Wordpress</title>		
+    9  	<!-- <link  href="http://fonts.googleapis.com/css?family=Kreon:300,400,700" rel="stylesheet" type="text/css" >  -->       
+   10  	<link href='http://fonts.googleapis.com/css?family=Droid+Sans:400,700' rel='stylesheet' type='text/css'>
+   ..
+  108  	// })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  109  
+  110: 	// ga('create', 'UA-45248739-1', 'layero.com');
+  111  	// ga('send', 'pageview');
+  112  
+  ...
+  148  					<ul>
+  149  
+  150: 						<li><a href="#" rel="http://themes.layero.com/grahaneo,http://layero.com/real-estate-wordpress-theme/">Graha RealEstate-Wordpress</a></li><li><a href="#" rel="http://themes.layero.com/graha-html/,http://layero.com/graha-responsive-real-estate-html-template/">Graha Real Estate-HTML</a></li><li><a href="#" rel="http://themes.layero.com/weddingwp,http://layero.com/wedding-wordpress-theme/">Wedding Wordpress</a></li><li><a href="#" rel="http://themes.layero.com/wedding-html/,http://layero.com/wedding-website-html-template/">Wedding HTML</a></li><li><a href="#" rel="http://themes.layero.com/yatra/,http://layero.com/tour-booking-wordpress-theme/">Yatra-Travel WordPress</a></li><li><a href="#" rel="http://themes.layero.com/atulya-landing/,http://layero.com/atulya-multi-purpose-wordpress-theme/">Atulya Multipurpose WP</a></li><li><a href="#" rel="http://themes.layero.com/atulya-html/index.html,http://layero.com/atulya-parallax-html-template/">Atulya Parallax-HTML</a></li><li><a href="#" rel="http://themes.layero.com/activa/index.html,http://layero.com/activa-creative-business-html-template/">Activa Creative-HTML</a></li><li><a href="#" rel="http://themes.layero.com/activawp,http://layero.com/download/activa-wordpress-business-theme/">Activa Business-WP</a></li>
+  151  					</ul>
+  152  
+  ...
+  163  
+  164  				<li class="right">
+  165: 					<a class="purchase" href="http://layero.com/real-estate-wordpress-theme/" rel="http://layero.com/real-estate-wordpress-theme/">Purchase</a>		
+  166: 					<a class="remove_frame" href="http://themes.layero.com/grahaneo" rel="http://themes.layero.com/grahaneo">Remove Frame</a>
+  167  				</li>
+  168  			<span class="clearfix"></span>
+  ...
+  173  	</div>
+  174  	<div class="iframe-wrapper">
+  175: 		<iframe id="iframe" src="http://themes.layero.com/grahaneo" frameborder="0" width="100%"></iframe>
+  176  	</div>
+  177  
+
+/Users/shyambharatpurigosavi/Documents/project/marriage_site/Invitation/wp-content/themes/configuration/includes/templates/attend.php:
+    6  <head>
+    7  	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    8: 	<title>Layero | Theme: Graha RealEstate-Wordpress</title>		
+    9  	<!-- <link  href="http://fonts.googleapis.com/css?family=Kreon:300,400,700" rel="stylesheet" type="text/css" >  -->       
+   10  	<link href='http://fonts.googleapis.com/css?family=Droid+Sans:400,700' rel='stylesheet' type='text/css'>
+   ..
+  108  	// })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  109  
+  110: 	// ga('create', 'UA-45248739-1', 'layero.com');
+  111  	// ga('send', 'pageview');
+  112  
+  ...
+  148  					<ul>
+  149  
+  150: 						<li><a href="#" rel="http://themes.layero.com/grahaneo,http://layero.com/real-estate-wordpress-theme/">Graha RealEstate-Wordpress</a></li><li><a href="#" rel="http://themes.layero.com/graha-html/,http://layero.com/graha-responsive-real-estate-html-template/">Graha Real Estate-HTML</a></li><li><a href="#" rel="http://themes.layero.com/weddingwp,http://layero.com/wedding-wordpress-theme/">Wedding Wordpress</a></li><li><a href="#" rel="http://themes.layero.com/wedding-html/,http://layero.com/wedding-website-html-template/">Wedding HTML</a></li><li><a href="#" rel="http://themes.layero.com/yatra/,http://layero.com/tour-booking-wordpress-theme/">Yatra-Travel WordPress</a></li><li><a href="#" rel="http://themes.layero.com/atulya-landing/,http://layero.com/atulya-multi-purpose-wordpress-theme/">Atulya Multipurpose WP</a></li><li><a href="#" rel="http://themes.layero.com/atulya-html/index.html,http://layero.com/atulya-parallax-html-template/">Atulya Parallax-HTML</a></li><li><a href="#" rel="http://themes.layero.com/activa/index.html,http://layero.com/activa-creative-business-html-template/">Activa Creative-HTML</a></li><li><a href="#" rel="http://themes.layero.com/activawp,http://layero.com/download/activa-wordpress-business-theme/">Activa Business-WP</a></li>
+  151  					</ul>
+  152  
+  ...
+  163  
+  164  				<li class="right">
+  165: 					<a class="purchase" href="http://layero.com/real-estate-wordpress-theme/" rel="http://layero.com/real-estate-wordpress-theme/">Purchase</a>		
+  166: 					<a class="remove_frame" href="http://themes.layero.com/grahaneo" rel="http://themes.layero.com/grahaneo">Remove Frame</a>
+  167  				</li>
+  168  			<span class="clearfix"></span>
+  ...
+  173  	</div>
+  174  	<div class="iframe-wrapper">
+  175: 		<iframe id="iframe" src="http://themes.layero.com/grahaneo" frameborder="0" width="100%"></iframe>
+  176  	</div>
+  177  
+
+61 matches across 12 files
+
+
+Searching 46 files for "layero"
+
+0 matches
+
+Searching 46 files for "Credit Shyam Gosavi"
+
+/Users/shyambharatpurigosavi/Documents/project/marriage_site/Invitation/index.html:
+  738  			<div class="pull-left">
+  739  				<p>
+  740: 					All Copyrights Reserved By Shyam Gosavi. Credit Shyam Gosavi & Wordpress	</p>
+  741  			</div>
+  742  			<!-- <div class="pull-right footer-social">
+
+/Users/shyambharatpurigosavi/Documents/project/marriage_site/Invitation/about-us/index.html:
+  424  			<div class="pull-left">
+  425  				<p>
+  426: 					All Copyrights Reserved By Shyam Gosavi. Credit Shyam Gosavi				</p>
+  427  			</div>
+  428  			
+
+/Users/shyambharatpurigosavi/Documents/project/marriage_site/Invitation/card/index.html:
+  324  			<div class="pull-left">
+  325  				<p>
+  326: 					All Copyrights Reserved By Shyam Gosavi. Credit Shyam Gosavi				</p>
+  327  			</div>
+  328  			
+
+/Users/shyambharatpurigosavi/Documents/project/marriage_site/Invitation/contact-us/index.html:
+  344  			<div class="pull-left">
+  345  				<p>
+  346: 					All Copyrights Reserved By Shyam Gosavi. Credit Shyam Gosavi				</p>
+  347  			</div>
+  348  			
+
+/Users/shyambharatpurigosavi/Documents/project/marriage_site/Invitation/Event/ceremony/index.html:
+  436  			<div class="pull-left">
+  437  				<p>
+  438: 					All Copyrights Reserved By Shyam Gosavi. Credit Shyam Gosavi				</p>
+  439  			</div>
+  440  			
+
+/Users/shyambharatpurigosavi/Documents/project/marriage_site/Invitation/Event/engagement/index.html:
+  430  			<div class="pull-left">
+  431  				<p>
+  432: 					All Copyrights Reserved By Shyam Gosavi. Credit Shyam Gosavi				</p>
+  433  			</div>
+  434  			
+
+/Users/shyambharatpurigosavi/Documents/project/marriage_site/Invitation/Event/reception/index.html:
+  437  			<div class="pull-left">
+  438  				<p>
+  439: 					All Copyrights Reserved By Shyam Gosavi. Credit Shyam Gosavi				</p>
+  440  			</div>
+  441  			
+
+/Users/shyambharatpurigosavi/Documents/project/marriage_site/Invitation/gifts/index.html:
+  713  			<div class="pull-left">
+  714  				<p>
+  715: 					All Copyrights Reserved By Shyam Gosavi. Credit Shyam Gosavi				</p>
+  716  			</div>
+  717  				 
+
+/Users/shyambharatpurigosavi/Documents/project/marriage_site/Invitation/guest-book/index.html:
+  371  			<div class="pull-left">
+  372  				<p>
+  373: 					All Copyrights Reserved By Shyam Gosavi. Credit Shyam Gosavi				</p>
+  374  			</div>
+  375  			
+
+/Users/shyambharatpurigosavi/Documents/project/marriage_site/Invitation/our-story/index.html:
+  440  			<div class="pull-left">
+  441  				<p>
+  442: 					All Copyrights Reserved By Shyam Gosavi. Credit Shyam Gosavi				</p>
+  443  			</div>
+  444  		</div>
+
+/Users/shyambharatpurigosavi/Documents/project/marriage_site/Invitation/our-wedding/index.html:
+  297  			<div class="pull-left">
+  298  				<p>
+  299: 					All Copyrights Reserved By Shyam Gosavi. Credit Shyam Gosavi				</p>
+  300  			</div>
+  301  			
+
+11 matches across 11 files
+
+
+Searching 46 files for "her signin"
+
+/Users/shyambharatpurigosavi/Documents/project/marriage_site/Invitation/about-us/index.html:
+  232  							</div>
+  233  							<div class="box-desc">
+  234: 								She's beautiful, emotional and I like most when she tries to impress me :). Her signing is awesome.
+  235  															</div>
+  236  						</div>
+
+1 match in 1 file
+
+
+Searching 46 files for "webside"
+
+/Users/shyambharatpurigosavi/Documents/project/marriage_site/Invitation/index.html:
+  723  					<p>
+  724  
+  725: 						<p>Thanks for visiting our invitation webside. We hope you will join us with your blessings and wishes. Your presence on this occasion is our honor. </p>
+  726  					</p>
+  727  
+
+/Users/shyambharatpurigosavi/Documents/project/marriage_site/Invitation/about-us/index.html:
+  405  					<p>
+  406  
+  407: 		Thanks for visiting our invitation webside. We hope you will join us with your blessings and wishes. Your presence on this occasion is our honor. 	
+  408  					</p>
+  409  
+
+/Users/shyambharatpurigosavi/Documents/project/marriage_site/Invitation/card/index.html:
+  303  					<p>
+  304  
+  305: 						<p>Thanks for visiting our invitation webside. We hope you will join us with your blessings and wishes. Your presence on this occasion is our honor. </p>
+  306  					</p>
+  307  
+
+/Users/shyambharatpurigosavi/Documents/project/marriage_site/Invitation/contact-us/index.html:
+  323  					<p>
+  324  
+  325: 						<p>Thanks for visiting our invitation webside. We hope you will join us with your blessings and wishes. Your presence on this occasion is our honor. </p>
+  326  					</p>
+  327  
+
+/Users/shyambharatpurigosavi/Documents/project/marriage_site/Invitation/Event/ceremony/index.html:
+  415  					<p>
+  416  
+  417: 						<p>Thanks for visiting our invitation webside. We hope you will join us with your blessings and wishes. Your presence on this occasion is our honor. </p>
+  418  					</p>
+  419  
+
+/Users/shyambharatpurigosavi/Documents/project/marriage_site/Invitation/Event/engagement/index.html:
+  409  					<p>
+  410  
+  411: 						<p>Thanks for visiting our invitation webside. We hope you will join us with your blessings and wishes. Your presence on this occasion is our honor. </p>
+  412  					</p>
+  413  
+
+/Users/shyambharatpurigosavi/Documents/project/marriage_site/Invitation/Event/reception/index.html:
+  416  					<p>
+  417  
+  418: 						<p>Thanks for visiting our invitation webside. We hope you will join us with your blessings and wishes. Your presence on this occasion is our honor. </p>
+  419  					</p>
+  420  
+
+/Users/shyambharatpurigosavi/Documents/project/marriage_site/Invitation/gifts/index.html:
+  692  					<p>
+  693  
+  694: 						<p>Thanks for visiting our invitation webside. We hope you will join us with your blessings and wishes. Your presence on this occasion is our honor. </p>
+  695  					</p>
+  696  
+
+/Users/shyambharatpurigosavi/Documents/project/marriage_site/Invitation/guest-book/index.html:
+  352  					<p>
+  353  
+  354: 						<p>Thanks for visiting our invitation webside. We hope you will join us with your blessings and wishes. Your presence on this occasion is our honor. </p>
+  355  					</p>
+  356  
+
+/Users/shyambharatpurigosavi/Documents/project/marriage_site/Invitation/our-story/index.html:
+  419  					<p>
+  420  
+  421: 						<p>Thanks for visiting our invitation webside. We hope you will join us with your blessings and wishes. Your presence on this occasion is our honor. </p>
+  422  					</p>
+  423  
+
+10 matches across 10 files
