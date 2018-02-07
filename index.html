@@ -347,31 +347,37 @@ jQuery(document).ready(function() {
 
   onValidationComplete: function(form, status){
 
-    if(status) { 
-
-        jQuery.ajax({
-
-            url: '../wp-content/themes/configuration/includes/templates/attend.php',
-
-            type: 'post',
-
-            dataType: 'json',
-
-            data: jQuery(form).serialize(),
-
-            success: function( result ) {
-
-                    jQuery('#listo').html("Thank you !")
+                    jQuery('#listo').html("Thank you ! Database limit error")
 
                 .hide()
 
                 .fadeIn(1000);
 
-            }
+    // if(status) { 
 
-        });
+    //     jQuery.ajax({
 
-    }
+    //         url: '../wp-content/themes/configuration/includes/templates/attend.php',
+
+    //         type: 'post',
+
+    //         dataType: 'json',
+
+    //         data: jQuery(form).serialize(),
+
+    //         success: function( result ) {
+
+    //                 jQuery('#listo').html("Thank you ! Database limit error")
+
+    //             .hide()
+
+    //             .fadeIn(1000);
+
+    //         }
+
+    //     });
+
+    // }
 
   }
 
