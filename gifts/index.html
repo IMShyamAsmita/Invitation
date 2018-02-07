@@ -198,7 +198,7 @@ body{ background-image:url(../wp-content/themes/configuration/images/bg/bg0.png)
 
 
 <li class="gift_name">
-<a href="#" role="button" data-toggle="modal" id="112" >Banyan</a>
+<a href="#" role="button" data-toggle="modal" id="112" >Banyan Tree</a>
 
 </li>
 
@@ -467,21 +467,7 @@ body{ background-image:url(../wp-content/themes/configuration/images/bg/bg0.png)
   validationEventTrigger: 'submit',// Validate on Submit
 
   onValidationComplete: function(form, status){
-
-    if(status) { 
-
-        jQuery.ajax({
-
-           // url: 'wp-content/themes/configuration/includes/templates/gift_contact.php',
-            url:"wp-admin/admin-ajax.php ",
-            type: 'post',
-            dataType: 'json',
-
-            data: jQuery(form).serialize()+'&action=gift_form_submit',
-
-            success: function( result ) {
-
-                var gid = jQuery('input[name="giftn"]').val();
+            var gid = jQuery('input[name="giftn"]').val();
 
                 jQuery('#'+gid).bind('click', false).addClass('inactive');
                 jQuery('#'+gid).parent().attr('class','inactive');
@@ -493,15 +479,40 @@ body{ background-image:url(../wp-content/themes/configuration/images/bg/bg0.png)
 
                 .fadeIn(1000);
 
+    // if(status) { 
+
+    //     jQuery.ajax({
+
+    //        // url: 'wp-content/themes/configuration/includes/templates/gift_contact.php',
+    //         url:"wp-admin/admin-ajax.php ",
+    //         type: 'post',
+    //         dataType: 'json',
+
+    //         data: jQuery(form).serialize()+'&action=gift_form_submit',
+
+    //         success: function( result ) {
+
+    //             var gid = jQuery('input[name="giftn"]').val();
+
+    //             jQuery('#'+gid).bind('click', false).addClass('inactive');
+    //             jQuery('#'+gid).parent().attr('class','inactive');
+
+
+				// jQuery('#gift_box').html("<h3>Thank you!</h3>")
+
+    //             .hide()
+
+    //             .fadeIn(1000);
+
 
 
 				
 
-            }
+    //         }
 
-        });
+    //     });
 
-    }
+    // }
 
   }
 

@@ -174,19 +174,22 @@ body{ background-image:url(../wp-content/themes/configuration/images/bg/bg0.png)
   autoHideDelay: 3000,
   validationEventTrigger: 'submit',// Validate on Submit
   onValidationComplete: function(form, status){
-    if(status) { 
-        jQuery.ajax({
-            url: '../wp-content/themes/configuration/includes/templates/contact.php',
-            type: 'post',
-            dataType: 'json',
-            data: jQuery(form).serialize(),
-            success: function( result ) {
-                    jQuery('#listo').html("<h3>Thank you!</h3>")
+  	 jQuery('#listo').html("<h3>Thank you!</h3>")
                 .hide()
                 .fadeIn(1000);
-            }
-        });
-    }
+    // if(status) { 
+    //     jQuery.ajax({
+    //         url: '../wp-content/themes/configuration/includes/templates/contact.php',
+    //         type: 'post',
+    //         dataType: 'json',
+    //         data: jQuery(form).serialize(),
+    //         success: function( result ) {
+    //                 jQuery('#listo').html("<h3>Thank you!</h3>")
+    //             .hide()
+    //             .fadeIn(1000);
+    //         }
+    //     });
+    // }
   }
 });
   
